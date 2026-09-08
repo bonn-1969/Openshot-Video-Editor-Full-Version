@@ -257,3 +257,6 @@ This repository serves as the official landing page for OpenShot Video Editor. T
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of OpenShot Video Editor today!**
+
+---
+**Last updated:** 2026-09-08 19:22:31 UTC
